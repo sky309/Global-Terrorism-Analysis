@@ -30,4 +30,4 @@ The data contains the events of terrorist activities happened each year from the
 <li>2016 has seen the maximum number of attacks in India but the maximum number of people were killed in 1992.</li> 
 <li>In India, J&K has been the most affected state and Srinagar having the highest number of attacks i.e 749.</li>
   </ol>
-  <h color: blue;> Thank You</font></h>
+  <div font-size: 0.875em; style="color: blue;"> Thank You</div>
