@@ -14,13 +14,13 @@ The data contains the events of terrorist activities happened each year from the
 <p>Conclusions</p>
   
   
-<p>Challenges faced:</p>
-<p>
-Collecting meaningful data: With so much data available, it’s difficult to dig down and access the insights that are needed most.
-Unknown Values: Dealing with the unknown values in the data is a task in itself to analyze in the best way. 
-Visual representation of data: To understand data it often needs to be visually presented in graphs or charts. It’s difficult to build them manually. Taking the time to pull information from multiple areas is a time consuming. 
-Collate the work: Integrating everyone’s work into a single space took us a little more time than expected in a very well understandable way
-  </p>
+<b>Challenges faced:</b>
+<ul>
+<li>Collecting meaningful data: With so much data available, it’s difficult to dig down and access the insights that are needed most.</li>
+<li> Unknown Values: Dealing with the unknown values in the data is a task in itself to analyze in the best way. </li>
+<li> Visual representation of data: To understand data it often needs to be visually presented in graphs or charts. It’s difficult to build them manually.
+  Taking the time to pull information from multiple areas is a time consuming. </li>
+  </ul></p>
  <b>Conclusions:</b>
   <ol>
 <li>Maximum number of attacks are 16903 across the world in the year 2014.</li> 
@@ -30,4 +30,4 @@ Collate the work: Integrating everyone’s work into a single space took us a li
 <li>2016 has seen the maximum number of attacks in India but the maximum number of people were killed in 1992.</li> 
 <li>In India, J&K has been the most affected state and Srinagar having the highest number of attacks i.e 749.</li>
   </ol>
-  <h><font color="r"> Thank You</font></h>
+  <h color: blue;> Thank You</font></h>
