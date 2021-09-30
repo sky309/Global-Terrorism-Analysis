@@ -11,8 +11,10 @@ The data contains the events of terrorist activities happened each year from the
 <p>Data Preprocessing.</p>
 <p>Data Analysis and Visualization.</p>
 <p>Challenges faced.</p>
-<b>Conclusions</b>
-<b>Challenges faced:</b>
+<p>Conclusions</p>
+  
+  
+<p>Challenges faced:</p>
 <p>
 Collecting meaningful data: With so much data available, it’s difficult to dig down and access the insights that are needed most.
 Unknown Values: Dealing with the unknown values in the data is a task in itself to analyze in the best way. 
@@ -20,12 +22,12 @@ Visual representation of data: To understand data it often needs to be visually 
 Collate the work: Integrating everyone’s work into a single space took us a little more time than expected in a very well understandable way
   </p>
  <b>Conclusions:</b>
-  <li>
-<p>Maximum number of attacks are 16903 across the world in the year 2014.</p> 
-<p>Taliban group has executed the maximum number of attacks i.e 7360 in the last two decades.</p> 
-<p>Asia is the most affected region by terrorist attacks with Iraq having maximum number of attacks.</P>
-<p>Bombing/ Explosion are the most preferred attack type and the same did the maximum damage too. </p>
-<p>2016 has seen the maximum number of attacks in India but the maximum number of people were killed in 1992.</p> 
-<p>In India, J&K has been the most affected state and Srinagar having the highest number of attacks i.e 749.</p>
-  </li>
+  <ol>
+<li>Maximum number of attacks are 16903 across the world in the year 2014.</li> 
+<li>Taliban group has executed the maximum number of attacks i.e 7360 in the last two decades.</li> 
+<li>Asia is the most affected region by terrorist attacks with Iraq having maximum number of attacks.</li>
+<li>Bombing/ Explosion are the most preferred attack type and the same did the maximum damage too. </li>
+<li>2016 has seen the maximum number of attacks in India but the maximum number of people were killed in 1992.</li> 
+<li>In India, J&K has been the most affected state and Srinagar having the highest number of attacks i.e 749.</li>
+  </ol>
   <h><font color="r"> Thank You</font></h>
