@@ -31,4 +31,4 @@ The data contains the events of terrorist activities happened each year from the
 <li>In India, J&K has been the most affected state and Srinagar having the highest number of attacks i.e 749.</li>
   </ol>
   
-  <div style="color: blue; font_size: 14px"> Thank You</div>
+  <p style="color: blue;font_size: 14px"> Thank You</p>
